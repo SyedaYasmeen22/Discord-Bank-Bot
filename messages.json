@@ -1,0 +1,58 @@
+{
+  "daily": [
+    "The potato gods have blessed you with {amount} 🥔 potatoes!",
+    "You dug up {amount} 🥔 fresh potatoes from the garden!",
+    "A mysterious farmer left {amount} 🥔 potatoes on your doorstep!",
+    "You found {amount} 🥔 potatoes hiding under your couch cushions!",
+    "The Great Potato Spirit rewards your devotion with {amount} 🥔!",
+    "You traded your old socks for {amount} 🥔 potatoes. Worth it.",
+    "A passing spud merchant gifted you {amount} 🥔 potatoes!",
+    "You harvested {amount} 🥔 potatoes from your secret underground farm!"
+  ],
+  "work": [
+    "You peeled potatoes at the local diner and earned 10 🥔!",
+    "You drove a potato delivery truck all day. Here's your 10 🥔!",
+    "You sorted 500 lbs of potatoes at the warehouse. Earned 10 🥔!",
+    "You wrote code for Potato Corp™ and billed 10 🥔!",
+    "You taste-tested 47 potato dishes. Rough day, but earned 10 🥔!",
+    "You painted potato portraits at the farmers market. Earned 10 🥔!",
+    "You judged a potato beauty contest. Paid 10 🥔 for your expertise!",
+    "You taught a potato cooking class. Earned 10 🥔 in tips!",
+    "You fixed the Potato Bank ATM. Reward: 10 🥔!",
+    "You won a potato eating contest. Prize: 10 🥔!"
+  ],
+  "beg_success": [
+    "A rich potato farmer felt sorry for you and gave you {amount} 🥔!",
+    "Someone tossed {amount} 🥔 small potatoes your way. Every bit counts!",
+    "A street musician was moved by your desperation and gave you {amount} 🥔!",
+    "The Potato Bank CEO passed by and flicked {amount} 🥔 at you!",
+    "A kind grandmother stuffed {amount} 🥔 potatoes in your pocket!"
+  ],
+  "beg_fail": [
+    "Everyone ignored you. You earned 0 🥔. Rough.",
+    "A pigeon stole your sign. You earned 0 🥔.",
+    "You tripped over a potato and everyone laughed. 0 🥔.",
+    "Nobody had spare potatoes today. 0 🥔 for you.",
+    "A dog ate your begging bowl. 0 🥔."
+  ],
+  "coinflip_win": [
+    "🎉 The coin landed on {side}! You doubled your bet!",
+    "💰 {side} it is! The potato gods favor you today!",
+    "🥔 {side}! Your potatoes multiplied like rabbits!"
+  ],
+  "coinflip_lose": [
+    "😢 The coin landed on {side}. Better luck next time!",
+    "💸 {side}! The potato gods are not pleased.",
+    "🥔 {side}... Your potatoes rolled away into the void."
+  ],
+  "slots_win": [
+    "🎰 JACKPOT! The reels aligned in your favor!",
+    "💰 Winner winner potato dinner!",
+    "🥔 The slot machine spit potatoes everywhere — you won!"
+  ],
+  "slots_lose": [
+    "🎰 No luck this time. The machine laughs at you.",
+    "💸 So close, yet so far. Your potatoes are gone.",
+    "🥔 The slot machine ate your potatoes. Rude."
+  ]
+}

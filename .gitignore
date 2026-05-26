@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+
+# Database and runtime files
+data/
+*.log
+
+# Byte-compiled / cache
+.pytest_cache/
+.coverage
+
+# OS files
+.DS_Store
+Thumbs.db
